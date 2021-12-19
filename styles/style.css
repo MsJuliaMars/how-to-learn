@@ -26,10 +26,6 @@
 
 
 /* ниже мы привели пример двух селекторов, чтобы вы вспомнили запись элемента */
-.header__square-pic {
-  height: 568px;
-  width: 568px;
-}
 
 .header__title {
   position: absolute;
@@ -85,6 +81,7 @@
   right: 0;
   width: 568px;
   height: 568px;
+
   background-color: #2f80ed;
 }
 
@@ -282,10 +279,6 @@
   margin-top: 20px;
 }
 
-.table__cell_theme_dark {
-  width: 200px;
-  margin-top: 80px;
-}
 
 .table__heading_theme_dark {
   color: #ffffff;
@@ -297,9 +290,11 @@
   height: 877px;
   z-index: 0;
   background-image: url(../images/kaufman-triangle.svg);
+  background-repeat: no-repeat;
   position: absolute;
   top: 0;
   right: -210px;
+  background-size: contain;
 }
 
 .footer {
