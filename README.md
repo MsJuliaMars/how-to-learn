@@ -1,8 +1,7 @@
-<<<<<<< HEAD
-# Проектная работа: "How to learn".
-=======
+
+
 # Проектная работа: "How to learn". 
->>>>>>> fa2f9cc8693c70414fbadcc0e821aabe2bce581b
+
 ## Результат работы на факультете "Веб-разработчик" Яндекс.Практикум
 
 ### Описание:
@@ -19,7 +18,7 @@ Flexbox, Positioning Elements, Animation and Transform using CSS, Iframe, BEM Me
 
 Анимация и трансформация элементов, video с встроенными в страницу видео из Youtube
 
-<<<<<<< HEAD
+
 ### Инструкция по установке:
 
 ```
@@ -28,16 +27,10 @@ git clone https://github.com/MsJuliaMars/how-to-learn.git
 
 ### *Возможня доработка проекта*
 1. адаптивная верстка
-=======
-### Инструкция по установке: 
 
-```
-git clone https://github.com/MsJuliaMars/how-to-learn.git
-``` 
 
 ### *Возможня доработка проекта*
 1. адаптивная верстка 
->>>>>>> fa2f9cc8693c70414fbadcc0e821aabe2bce581b
 2. технология Webpack
 3. создание формы обратной связи
 
